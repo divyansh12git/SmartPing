@@ -50,7 +50,7 @@ SmartPing is committed to promoting sustainable development by addressing key he
      for this got to [API setup](https://ai.google.dev/)
      Create a .env file in root backend folder and add Api key
         ```
-        API_KEY="AIzaSyAhwIfI7Q1GoHJQW9hAKlcMz7oZj_2j1E8"
+        API_KEY="Your API Key"
         ```
   5. Run the frontend
         ```
