@@ -39,17 +39,43 @@ SmartPing is committed to promoting sustainable development by addressing key he
      ```
      git clone https://github.com/divyansh12git/SmartPing.git
      ```
-  3. Update package
-     
+  2. Update packages
+        ```
+        npm i
+        cd backend
+        npm i
+        ```
     
-    npm i
-    cd backend
-    npm i
-    
-    
-  5. set up api key for Gemini API
+  3. set up api key for Gemini API
      for this got to [API setup](https://ai.google.dev/)
-     ```
-     
-  7. Run the server
-  8. Run the frontend in another terminal
+     Create a .env file in root backend folder and add Api key
+        ```
+        API_KEY="AIzaSyAhwIfI7Q1GoHJQW9hAKlcMz7oZj_2j1E8"
+        ```
+  5. Run the frontend
+        ```
+        npm run start
+        ```
+  6. Run the backend in another terminal
+        ```
+        cd backend
+        npm run start
+        ```
+## Preview
+
+![w1](https://github.com/divyansh12git/SmartPing/assets/123203281/1709233c-d9c5-43e7-8be4-75e005909269)
+![w2](https://github.com/divyansh12git/SmartPing/assets/123203281/376a4c79-a6dd-4809-bbad-389ba8eddd2e)
+![w3](https://github.com/divyansh12git/SmartPing/assets/123203281/79971713-b0a1-4c10-a805-a14b0deb4753)
+![w4](https://github.com/divyansh12git/SmartPing/assets/123203281/3ac8f59e-8340-4a43-b5c4-86ab3975617a)
+![w5](https://github.com/divyansh12git/SmartPing/assets/123203281/dd0382f3-a4f0-42a5-85c1-1d3e9195d2c9)
+![w6](https://github.com/divyansh12git/SmartPing/assets/123203281/c76d9a93-66d0-4708-9a84-72c500250250)
+![w7](https://github.com/divyansh12git/SmartPing/assets/123203281/d26695ef-e171-4aee-a993-59142d88457b)
+![w8](https://github.com/divyansh12git/SmartPing/assets/123203281/ca429073-3baf-4fb8-af80-7276bcae3a7a)
+![w9](https://github.com/divyansh12git/SmartPing/assets/123203281/c86fcef4-4747-444e-a21b-aedbf8d10de1)
+![w10](https://github.com/divyansh12git/SmartPing/assets/123203281/7585f07c-0790-446a-8467-e3033e143abc)
+
+
+
+
+
+
