@@ -33,6 +33,8 @@ SmartPing is committed to promoting sustainable development by addressing key he
   - Traffic Analyzer
   - Information Processing
       - in upcoming phase we will make our webApp more personalized by understanding the way the user interact with the webapp by using Machine Learning Algorithm.
+## Deployed Link
+[go to web page](https://smartping.vercel.app/)
 ## Project Setup
   1. Clone this repository to your local system
 
