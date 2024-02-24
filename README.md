@@ -20,7 +20,7 @@ SmartPing is committed to promoting sustainable development by addressing key he
 - **Frontend** : HTML, CSS, JavaScript, ReactJS
 - **Database** : MongoDB
 - **Authentication** : Passport.js
-- **Backend**: NodeJS
+- **Backend**: NodeJS, Express.Js
 - **API** :  Gemini API, Google Maps API, Weather API
 
 ## Phases
