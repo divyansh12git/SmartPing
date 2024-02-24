@@ -48,6 +48,7 @@ SmartPing is committed to promoting sustainable development by addressing key he
     
   3. set up api key for Gemini API
      for this got to [API setup](https://ai.google.dev/)
+     
      Create a .env file in root backend folder and add Api key
         ```
         API_KEY="Your API Key"
@@ -61,6 +62,10 @@ SmartPing is committed to promoting sustainable development by addressing key he
         cd backend
         npm run start
         ```
+
+## Design File (Figma)
+[Figma](https://www.figma.com/file/XOGgxM0eGFlRHPghhq7nId/SmartPing?type=design&node-id=0%3A1&mode=design&t=TvdjEZWV08Y3iYwL-1)
+
 ## Preview
 
 ![w1](https://github.com/divyansh12git/SmartPing/assets/123203281/1709233c-d9c5-43e7-8be4-75e005909269)
