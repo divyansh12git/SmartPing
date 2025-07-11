@@ -1,0 +1,15 @@
+name: smartping cron
+
+on:
+  schedule:
+    - cron: '*/1440 * * * *' 
+  workflow_dispatch:        
+
+jobs:
+  keep-awake:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Curl the Render App
+        run: |
+          curl -sSf https://your-app-name.onrender.com || echo "Ping failed"
